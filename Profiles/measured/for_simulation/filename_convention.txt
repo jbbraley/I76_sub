@@ -1,0 +1,6 @@
+filename:
+[direction]_[lane]_[run]_[wheel-line]
+
+ex. 
+EB_left_run1_L
+signifies the profile is for east-bound direction, in the left lane, for the first run and for the left wheel line.

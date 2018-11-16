@@ -1,0 +1,10 @@
+EB_left_1 - 518.3
+EB_left_2 - 517.6
+EB_right_1 - 517.6
+EB_right_2 - 0
+EB_right_3 - 517.7
+WB_left_1 - 489.5
+WB_left_2 - 456.0
+WB_right_1 - 490.6
+WB_right_2 -489.8
+
